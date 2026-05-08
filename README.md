@@ -9,8 +9,6 @@ AI Enthusiast • Full Stack Developer • Cloud & DevOps Learner • Software E
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI%2FML+Engineer;Cloud+%26+DevOps+Enthusiast;Java+%7C+Python+%7C+React+Developer;Building+Scalable+Systems;Always+Learning+New+Technologies" />
 </p>
 
----
-
 ##  About Me
 
 💡 Passionate Computer Science Engineering student focused on building scalable software systems, AI-powered applications, and cloud-native solutions.
@@ -30,8 +28,6 @@ AI Enthusiast • Full Stack Developer • Cloud & DevOps Learner • Software E
  Fun Fact:
 I enjoy optimizing systems and solving real-world engineering challenges through scalable architectures and automation.
 
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -50,7 +46,6 @@ I enjoy optimizing systems and solving real-world engineering challenges through
 
 </p>
 
----
 ##  Tech Stack
 
 ### 👨‍💻 Languages
@@ -59,15 +54,11 @@ I enjoy optimizing systems and solving real-world engineering challenges through
 <img src="https://skillicons.dev/icons?i=java,python,javascript,cs,sql"/>
 </p>
 
----
-
 ### 🎨 Frontend Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
 </p>
-
----
 
 ### ⚙️ Backend Development
 
@@ -75,23 +66,17 @@ I enjoy optimizing systems and solving real-world engineering challenges through
 <img src="https://skillicons.dev/icons?i=nodejs,dotnet,flask,fastapi"/>
 </p>
 
----
-
 ### 🗄️ Database
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
----
-
 ### ☁️ Cloud & DevOps
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,azure"/>
 </p>
-
----
 
 ### 🤖 AI / ML
 
@@ -106,7 +91,6 @@ I enjoy optimizing systems and solving real-world engineering challenges through
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </p>
----
 
 ##  Experience
 
@@ -118,16 +102,12 @@ I enjoy optimizing systems and solving real-world engineering challenges through
 - Used Git, Docker, Linux & JIRA
 - Improved workflow speed by 30%
 
----
-
 ### ☁️ Intern — Prodevans Technologies
 📍 Bengaluru | Aug 2024 – Sep 2024
 
 - Managed containerized applications using Docker & Kubernetes
 - Reduced pod restarts by 30%
 - Improved deployment efficiency
-
----
 
 ##  Featured Projects
 
@@ -140,8 +120,6 @@ Python + Pandas + Power BI dashboard processing 500K+ HR records.
 ### 🤖 AI Emotion Recognition System
 AI-powered facial emotion recognition with music recommendation system using OpenCV & Deep Learning.
 
----
-
 ##  GitHub Stats
 
 <p align="center">
@@ -152,8 +130,6 @@ AI-powered facial emotion recognition with music recommendation system using Ope
 
 </p>
 
----
-
 ##  Achievements
 
 <p align="center">
@@ -162,16 +138,12 @@ AI-powered facial emotion recognition with music recommendation system using Ope
 
 </p>
 
----
-
 ##  Certifications
 
 - IBM National Level Hackathon – Finalist
 - Programming in Java – NPTEL
 - Prompt Engineering for AI – Udemy
 - Joy of Computing using Python – NPTEL
-
----
 
 ##  Contribution Graph
 
@@ -180,8 +152,6 @@ AI-powered facial emotion recognition with music recommendation system using Ope
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulvibhakar&theme=tokyo-night"/>
 
 </p>
-
----
 
 <p align="center">
 
