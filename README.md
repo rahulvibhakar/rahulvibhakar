@@ -197,6 +197,6 @@ AI-powered facial emotion recognition with music recommendation system using Ope
 
 <p align="center">
 
-✨ Building scalable software systems & AI-powered solutions ✨
+✨ Building scalable software systems ✨
 
 </p>
