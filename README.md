@@ -1,4 +1,4 @@
-# rahul_vibhakar
+# rahulvibhakar
 <h1 align="center">Hi 👋, I'm Rahul Vibhakar M R</h1>
 
 <h3 align="center">
