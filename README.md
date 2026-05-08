@@ -11,23 +11,23 @@ AI Enthusiast • Full Stack Developer • Cloud & DevOps Learner • Software E
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 💡 Passionate Computer Science Engineering student focused on building scalable software systems, AI-powered applications, and cloud-native solutions.
 
-🔭 Currently working on:
+ Currently working on:
 - Full Stack Applications
 - AI/ML Systems
 - Cloud & Kubernetes Deployments
 - Backend Optimization
 
-🌱 Currently learning:
+ Currently learning:
 - Advanced System Design
 - Distributed Systems
 - MLOps & DevOps
 - Scalable AI Inference
 
-⚡ Fun Fact:
+ Fun Fact:
 I enjoy optimizing systems and solving real-world engineering challenges through scalable architectures and automation.
 
 ---
@@ -51,7 +51,7 @@ I enjoy optimizing systems and solving real-world engineering challenges through
 </p>
 
 ---
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### 👨‍💻 Languages
 
@@ -108,7 +108,7 @@ I enjoy optimizing systems and solving real-world engineering challenges through
 </p>
 ---
 
-## 💼 Experience
+##  Experience
 
 ### 🚀 Software Intern — Zaggle Prepaid Ocean Services Ltd
 📍 Bengaluru | Jul 2025 – Jan 2026
@@ -129,7 +129,7 @@ I enjoy optimizing systems and solving real-world engineering challenges through
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 ### 🎯 Event Management System
 Full-stack event platform with secure authentication, optimized listings, and real-time updates for 100+ users.
@@ -142,7 +142,7 @@ AI-powered facial emotion recognition with music recommendation system using Ope
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 
@@ -154,7 +154,7 @@ AI-powered facial emotion recognition with music recommendation system using Ope
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 <p align="center">
 
@@ -164,7 +164,7 @@ AI-powered facial emotion recognition with music recommendation system using Ope
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - IBM National Level Hackathon – Finalist
 - Programming in Java – NPTEL
@@ -173,7 +173,7 @@ AI-powered facial emotion recognition with music recommendation system using Ope
 
 ---
 
-## 📊 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
 
