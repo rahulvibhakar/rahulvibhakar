@@ -51,13 +51,12 @@ I enjoy optimizing systems and solving real-world engineering challenges through
 </p>
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,sql"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,cs,sql"/>
 </p>
 
 ---
@@ -73,7 +72,7 @@ I enjoy optimizing systems and solving real-world engineering challenges through
 ### ⚙️ Backend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi"/>
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,flask,fastapi"/>
 </p>
 
 ---
@@ -89,7 +88,7 @@ I enjoy optimizing systems and solving real-world engineering challenges through
 ### ☁️ Cloud & DevOps
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,azure"/>
 </p>
 
 ---
@@ -107,7 +106,6 @@ I enjoy optimizing systems and solving real-world engineering challenges through
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </p>
-
 ---
 
 ## 💼 Experience
@@ -151,16 +149,6 @@ AI-powered facial emotion recognition with music recommendation system using Ope
 <img src="https://github-readme-stats.vercel.app/api?username=rahulvibhakar&show_icons=true&theme=tokyonight"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulvibhakar&theme=tokyonight"/>
-
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulvibhakar&layout=compact&theme=tokyonight"/>
 
 </p>
 
